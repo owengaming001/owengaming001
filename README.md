@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, anime, and fighting games.
 - 🌱 I’m currently learning people's secrets.
 - 💞️ I’m looking to collaborate on... I dunno.
-- 📫 How to reach me: I have discord (@OwenGaming001#1239) and reddit. (u/OwenGaming001)
+- 📫 How to reach me: I have discord (@owencmyk) and reddit. (u/OwenCMYK)
 
 <!---
 owengaming001/owengaming001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
